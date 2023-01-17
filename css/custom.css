@@ -1,7 +1,7 @@
 /* 网页样式库必须放在css的最前面 */
 :root {
   --trans-light: rgba(255, 255, 255, 0.75);
-  --trans-dark: rgba(25, 25, 25, 0.55);
+  --trans-dark: rgba(25, 25, 25, 0.6);
   --border-style: 1px solid rgb(58, 37, 172);
   --backdrop-filter: blur(5px) saturate(150%);
 }
