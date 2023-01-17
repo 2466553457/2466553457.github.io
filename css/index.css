@@ -1340,8 +1340,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 15px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #d2ebfd;
-  --hr-before-color: #bfe4fb;
+  --hr-border: #ffaa80;
+  --hr-before-color: #ff884d;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
@@ -2997,7 +2997,7 @@ h1.page-title + .tag-cloud-list {
   color: #1c49c7;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  background: #00c4b6;
+  background: #db0000;
   color: #fff;
 }
 #aside-content :only-child > .card-widget {
