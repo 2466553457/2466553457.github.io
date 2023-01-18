@@ -1379,7 +1379,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: kaiti ,  songti;
+  font-family: katong , kaiti ,  songti;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1510,7 +1510,7 @@ a:hover {
 .site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: songti , microsoft yahei;
+  font-family: katong , songti , microsoft yahei;
 }
 .is-center {
   text-align: center;
@@ -1684,7 +1684,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 14px;
-  font-family: consolas, Menlo, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
+  font-family: consolas !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -2032,7 +2032,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: songti , microsoft yahei;
+  font-family: katong , songti , microsoft yahei;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
@@ -3868,7 +3868,7 @@ h1.page-title + .tag-cloud-list {
   text-align: center;
 }
 #pagination .page-number.current {
-  background: #d56113;
+  background: #0055b6;
   color: var(--white);
 }
 #pagination .pagination-info {
