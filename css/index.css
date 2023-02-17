@@ -1340,8 +1340,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 15px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #ffaa80;
-  --hr-before-color: #ff884d;
+  --hr-border: #92e9ff;
+  --hr-before-color: #66e1ff;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
@@ -1450,7 +1450,7 @@ hr:before {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\3423';
+  content: '\f2dc';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
