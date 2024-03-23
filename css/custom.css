@@ -713,3 +713,9 @@ div#archive {
   /* 定义显示样式 */
   font-display: block;
 }
+
+/* Twikoo评论框自定义高度 */
+
+.twikoo .tk-submit .el-textarea__inner {
+  min-height: 150px !important;
+}
