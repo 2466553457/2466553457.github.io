@@ -509,8 +509,7 @@ figure.highlight pre .addition {
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
   box-sizing: border-box;
-  background: url(https://tuchuang.xkyfzs.top/dashang/yishan.png) center center
-    no-repeat;
+  background: url(/img/weixin.png) center center no-repeat;
   background-size: 100%;
 }
 
